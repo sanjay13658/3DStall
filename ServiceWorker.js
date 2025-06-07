@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-3DStallInteractive-0.1.0";
 const contentToCache = [
-    "Build/build.loader.js",
-    "Build/build.framework.js",
-    "Build/build.data",
-    "Build/build.wasm",
+    "Build/3DStall.loader.js",
+    "Build/3DStall.framework.js",
+    "Build/3DStall.data",
+    "Build/3DStall.wasm",
     "TemplateData/style.css"
 
 ];
